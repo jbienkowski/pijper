@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pijper.Controllers.Station
 {
-    [Route("station/1/version")]
+    [Route("fdsnws/station/1/version")]
     [ApiController]
     public class VersionController : ControllerBase
     {

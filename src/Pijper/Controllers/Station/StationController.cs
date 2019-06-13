@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pijper.Controllers.Station
 {
-    [Route("station/1")]
+    [Route("fdsnws/station/1")]
     [ApiController]
     public class StationController : Controller
     {

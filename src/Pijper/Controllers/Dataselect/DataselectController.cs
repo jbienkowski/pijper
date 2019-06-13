@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pijper.Controllers.Dataselect
 {
-    [Route("dataselect/1")]
+    [Route("fdsnws/dataselect/1")]
     [ApiController]
     public class DataselectController : Controller
     {

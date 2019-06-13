@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.WebUtilities;
 
 namespace Pijper.Controllers.Dataselect
 {
-    [Route("dataselect/1/query")]
+    [Route("fdsnws/dataselect/1/query")]
     [ApiController]
     public class QueryController : ControllerBase
     {
