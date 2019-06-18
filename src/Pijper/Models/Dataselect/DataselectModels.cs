@@ -1,6 +1,9 @@
-namespace Pijper.Models.Dataselect {
-    public class DataselectMetadata {
-        public DataselectMetadata() {
+namespace Pijper.Models.Dataselect
+{
+    public class DataselectMetadata
+    {
+        public DataselectMetadata()
+        {
 
         }
     }
